@@ -25,9 +25,9 @@ public class TestQuartz {
 	public static void main(String[] args) throws Exception{
             //jobDataMap();
             //stop();
-		    //jobDataMap();
+		    jobDataMap();
 		    //cromtrigger();
-		    jobListener();
+		    //jobListener();
 	}
 	private static void jobListener() throws Exception {
 		 //创建调度器
